@@ -29,3 +29,6 @@ if (is_readable($c_file)) {
 } else {
     die("Page not found !");
 }
+
+//i'm Dolin
+//Phuong Nam Digital
